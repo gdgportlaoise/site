@@ -11,7 +11,7 @@
 		"lint": "prettier --check . && eslint .",
 		"lint:fix": "eslint . --fix",
 		"format": "prettier --write .",
-		"gh-pages": "npm run build && touch ./build/.nojekyll && npx gh-pages -d build -t true"
+		"gh-pages": "npm run build && echo gdgportlaoise.com > ./build/CNAME && touch ./build/.nojekyll && npx gh-pages -d build -t true"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",
