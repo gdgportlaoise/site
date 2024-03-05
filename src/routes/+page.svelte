@@ -68,7 +68,7 @@
 				>
 					Build with AI
 				</h2>
-				<p>Date TBC.</p>
+				<p>Date TBC</p>
 				<a href="/" class="btn btn-primary">Learn More</a>
 			</div>
 		</div>
