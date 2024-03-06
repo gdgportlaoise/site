@@ -1,9 +1,9 @@
 <footer class="footer p-10 bg-neutral text-neutral-content">
-	<aside>
+	<div>
 		<img src="/gdg-logomark.svg" alt="GDG Logomark" class="h-8" />
 		<p>Google Developer Groups Portlaoise<br />Portlaoise, Co Laois, Ireland</p>
-	</aside>
-	<nav>
+	</div>
+	<div class="justify-items-end justify-self-end">
 		<h6 class="footer-title">Social</h6>
 		<div class="grid grid-flow-col gap-4">
 			<a href="https://discord.gg/X5py5jeF4A" target="_blank">
@@ -89,5 +89,5 @@
 				</svg>
 			</a>
 		</div>
-	</nav>
+	</div>
 </footer>
