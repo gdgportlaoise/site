@@ -12,19 +12,19 @@
 </div>
 
 <div class="container mx-auto">
-	<div class="grid grid-cols-1 lg:grid-cols-2 py-20 px-10 gap-5">
+	<div class="grid grid-cols-1 lg:grid-cols-2 py-24 px-10 gap-5">
 		<h2 class="text-4xl font-bold">Powering Tech Growth in the Midlands</h2>
 		<div>
 			<p class="text-lg">
 				We're GDG Portlaoise, your local chapter of the global Google Developer Group network. We're
 				dedicated to building a community to connect tech enthusiasts across the Midlands, providing
-				a dynamic space to learn, collaborate, and push boundaries.
+				a dynamic space to learn, collaborate, and push boundariess.
 			</p>
 		</div>
 	</div>
 </div>
 
-<div class="container mx-auto p-10">
+<div class="container mx-auto px-10 py-20">
 	<h2 class="text-3xl font-bold mb-5">What We Do</h2>
 	<div class="grid grid-cols-1 lg:grid-cols-4 gap-2">
 		<div class="card rounded-none bg-info">
@@ -57,18 +57,13 @@
 	</div>
 </div>
 
-<div class="container mx-auto p-10">
+<div class="container mx-auto px-10 py-20">
 	<h2 class="text-3xl font-bold mb-5">Upcoming Events</h2>
 	<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
 		<div class="card rounded-none bg-base-300 dark:bg-base-800">
 			<div class="card-body">
-				<h2
-					class="card-title
-					"
-				>
-					Build with AI
-				</h2>
-				<p>Date TBC</p>
+				<h2 class="card-title">Build with AI</h2>
+				<p>Date TBC.</p>
 				<a href="/" class="btn btn-primary">Learn More</a>
 			</div>
 		</div>
@@ -76,7 +71,7 @@
 </div>
 
 <div class="bg-neutral">
-	<div class="container mx-auto p-10">
+	<div class="container mx-auto px-10 py-20">
 		<h2 class="text-3xl font-bold mb-5 text-neutral-content">Partners</h2>
 		<div class="grid grid-cols-2 lg:grid-cols-4 gap-5">
 			<div class="hidden lg:block" />
