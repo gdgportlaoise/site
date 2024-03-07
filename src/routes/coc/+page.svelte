@@ -1,5 +1,5 @@
-<div class="container">
-	<h1 class="text-lg">Code of Conduct & Anti-Harrassment Policy</h1>
+<div class="container mx-auto">
+	<h1 class="text-2xl">Code of Conduct & Anti-Harrassment Policy</h1>
 
 	<p>
 		GDG Portlaoise is dedicated to providing a harassment-free and inclusive event experience for
@@ -12,48 +12,52 @@
 		All participants of GDG Portlaoise community & events must abide by the following policy:
 		<br />
 		<br />
-		<b>1. Be excellent to each other. </b>We want the event to be an excellent experience for
-		everyone regardless of gender identity and expression, sexual orientation, disabilities,
-		neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or
-		other protected category. Treat everyone with respect. Participate while acknowledging that
-		everyone deserves to be here -- and each of us has the right to enjoy our experience without
-		fear of harassment, discrimination, or condescension, whether blatant or via micro-aggressions.
-		Jokes shouldn’t demean others. Consider what you are saying and how it would feel if it were
-		said to or about you.
-		<br />
-		<br />
-		<b>2. Speak up if you see or hear something.</b> Harassment is not tolerated, and you are
-		empowered to politely engage when you or others are disrespected. The person making you feel
-		uncomfortable may not be aware of what they are doing, and politely bringing their behavior to
-		their attention is encouraged. If a participant engages in harassing or uncomfortable behavior,
-		the event organizers may take any action they deem appropriate, including warning or expelling
-		the offender from the event with no refund. If you are being harassed or feel uncomfortable,
-		notice that someone else is being harassed, or have any other concerns, please contact a member
-		of the event staff immediately.
-		<br />
-		<br />
-		<b>3. Harassment is not tolerated.</b> Harassment includes, but is not limited to: verbal
-		language that reinforces social structures of domination related to gender identity and
-		expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size,
-		ethnicity, nationality, race, age, religion, or other protected category; sexual imagery in
-		public spaces; deliberate intimidation; stalking; following; harassing photography or recording;
-		sustained disruption of talks or other events; offensive verbal language; inappropriate physical
-		contact; and unwelcome sexual attention. Participants asked to stop any harassing behavior are
-		expected to comply immediately.
-		<br />
-		<br />
-		<b>4. Practice saying "Yes and" to each other.</b> It’s a theatre improv technique to build on
-		each other’s ideas. We all benefit when we create together.
-		<br />
-		<br />
-		This policy extends to talks, forums, workshops, codelabs, social media, parties, hallway conversations,
-		all attendees, partners, sponsors, volunteers, event staff, etc. You catch our drift. GDG Portlaoise
-		reserves the right to refuse admittance to, or remove any person from, any GDG Portlaoise hosted
-		event (including future GDG Portlaoise events) at any time in its sole discretion. This includes,
-		but is not limited to, attendees behaving in a disorderly manner or failing to comply with this policy,
-		and the terms and conditions herein. If a participant engages in harassing or uncomfortable behavior,
-		the event organizers may take any action they deem appropriate, including warning or expelling the
-		offender from the event with no refund.
+	</p>
+	<ol>
+		<li>
+			Be excellent to each other. <br />We want the event to be an excellent experience for everyone
+			regardless of gender identity and expression, sexual orientation, disabilities,
+			neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion,
+			or other protected category. Treat everyone with respect. Participate while acknowledging that
+			everyone deserves to be here -- and each of us has the right to enjoy our experience without
+			fear of harassment, discrimination, or condescension, whether blatant or via
+			micro-aggressions. Jokes shouldn’t demean others. Consider what you are saying and how it
+			would feel if it were said to or about you.
+		</li>
+		<li>
+			2. Speak up if you see or hear something.<br /> Harassment is not tolerated, and you are empowered
+			to politely engage when you or others are disrespected. The person making you feel uncomfortable
+			may not be aware of what they are doing, and politely bringing their behavior to their attention
+			is encouraged. If a participant engages in harassing or uncomfortable behavior, the event organizers
+			may take any action they deem appropriate, including warning or expelling the offender from the
+			event with no refund. If you are being harassed or feel uncomfortable, notice that someone else
+			is being harassed, or have any other concerns, please contact a member of the event staff immediately.
+		</li>
+		<li>
+			3. Harassment is not tolerated.<br /> Harassment includes, but is not limited to: verbal language
+			that reinforces social structures of domination related to gender identity and expression, sexual
+			orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality,
+			race, age, religion, or other protected category; sexual imagery in public spaces; deliberate intimidation;
+			stalking; following; harassing photography or recording; sustained disruption of talks or other
+			events; offensive verbal language; inappropriate physical contact; and unwelcome sexual attention.
+			Participants asked to stop any harassing behavior are expected to comply immediately.
+		</li>
+		<li>
+			Practice saying "Yes and" to each other.<br />
+			It’s a theatre improv technique to build on each other’s ideas. We all benefit when we create together.
+		</li>
+	</ol>
+	<br />
+	<br />
+	<p>
+		This policy extends to talks, forums, workshops, codelabs, social media, parties, hallway
+		conversations, all attendees, partners, sponsors, volunteers, event staff, etc. You catch our
+		drift. GDG Portlaoise reserves the right to refuse admittance to, or remove any person from, any
+		GDG Portlaoise hosted event (including future GDG Portlaoise events) at any time in its sole
+		discretion. This includes, but is not limited to, attendees behaving in a disorderly manner or
+		failing to comply with this policy, and the terms and conditions herein. If a participant
+		engages in harassing or uncomfortable behavior, the event organizers may take any action they
+		deem appropriate, including warning or expelling the offender from the event with no refund.
 		<br />
 		Our event staff can usually be identified by special badges/attire. Our zero tolerance policy means
 		that we will look into and review every allegation of violation of our Event Community Guidelines
@@ -76,7 +80,7 @@
 		<br />
 		<br />
 	</p>
-	<h3>Why this policy is important</h3>
+	<h3 class="text-lg">Why this policy is important</h3>
 	<p>
 		<br />
 		Harassment at events and in online communities is unfortunately common. Creating an official policy
