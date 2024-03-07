@@ -1,6 +1,6 @@
-<div class="container mx-auto">
-	<h1 class="text-2xl">Code of Conduct & Anti-Harrassment Policy</h1>
-
+<div class="container mx-auto my-10">
+	<h1 class="text-3xl">Code of Conduct & Anti-Harrassment Policy</h1>
+	<br />
 	<p>
 		GDG Portlaoise is dedicated to providing a harassment-free and inclusive event experience for
 		everyone regardless of gender identity and expression, sexual orientation, disabilities,
@@ -15,39 +15,51 @@
 	</p>
 	<ol>
 		<li>
-			Be excellent to each other. <br />We want the event to be an excellent experience for everyone
-			regardless of gender identity and expression, sexual orientation, disabilities,
-			neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion,
-			or other protected category. Treat everyone with respect. Participate while acknowledging that
-			everyone deserves to be here -- and each of us has the right to enjoy our experience without
-			fear of harassment, discrimination, or condescension, whether blatant or via
-			micro-aggressions. Jokes shouldn’t demean others. Consider what you are saying and how it
-			would feel if it were said to or about you.
+			1. Be excellent to each other.
+			<br />
+			<br />
+			We want the event to be an excellent experience for everyone regardless of gender identity and
+			expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity,
+			nationality, race, age, religion, or other protected category. Treat everyone with respect. Participate
+			while acknowledging that everyone deserves to be here -- and each of us has the right to enjoy
+			our experience without fear of harassment, discrimination, or condescension, whether blatant or
+			via micro-aggressions. Jokes shouldn’t demean others. Consider what you are saying and how it would
+			feel if it were said to or about you.
 		</li>
+		<br />
 		<li>
-			2. Speak up if you see or hear something.<br /> Harassment is not tolerated, and you are empowered
-			to politely engage when you or others are disrespected. The person making you feel uncomfortable
-			may not be aware of what they are doing, and politely bringing their behavior to their attention
-			is encouraged. If a participant engages in harassing or uncomfortable behavior, the event organizers
-			may take any action they deem appropriate, including warning or expelling the offender from the
-			event with no refund. If you are being harassed or feel uncomfortable, notice that someone else
-			is being harassed, or have any other concerns, please contact a member of the event staff immediately.
+			2. Speak up if you see or hear something.
+			<br />
+			<br />
+			Harassment is not tolerated, and you are empowered to politely engage when you or others are disrespected.
+			The person making you feel uncomfortable may not be aware of what they are doing, and politely
+			bringing their behavior to their attention is encouraged. If a participant engages in harassing
+			or uncomfortable behavior, the event organizers may take any action they deem appropriate, including
+			warning or expelling the offender from the event with no refund. If you are being harassed or feel
+			uncomfortable, notice that someone else is being harassed, or have any other concerns, please contact
+			a member of the event staff immediately.
 		</li>
+		<br />
 		<li>
-			3. Harassment is not tolerated.<br /> Harassment includes, but is not limited to: verbal language
-			that reinforces social structures of domination related to gender identity and expression, sexual
-			orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality,
-			race, age, religion, or other protected category; sexual imagery in public spaces; deliberate intimidation;
-			stalking; following; harassing photography or recording; sustained disruption of talks or other
-			events; offensive verbal language; inappropriate physical contact; and unwelcome sexual attention.
-			Participants asked to stop any harassing behavior are expected to comply immediately.
+			3. Harassment is not tolerated.
+			<br />
+			<br />
+			Harassment includes, but is not limited to: verbal language that reinforces social structures of
+			domination related to gender identity and expression, sexual orientation, disabilities, neurodiversity,
+			physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected
+			category; sexual imagery in public spaces; deliberate intimidation; stalking; following; harassing
+			photography or recording; sustained disruption of talks or other events; offensive verbal language;
+			inappropriate physical contact; and unwelcome sexual attention. Participants asked to stop any
+			harassing behavior are expected to comply immediately.
 		</li>
+		<br />
 		<li>
-			Practice saying "Yes and" to each other.<br />
+			4.Practice saying "Yes and" to each other.
+			<br />
+			<br />
 			It’s a theatre improv technique to build on each other’s ideas. We all benefit when we create together.
 		</li>
 	</ol>
-	<br />
 	<br />
 	<p>
 		This policy extends to talks, forums, workshops, codelabs, social media, parties, hallway
