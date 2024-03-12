@@ -36,7 +36,7 @@
 		<div class="card rounded-none bg-success">
 			<div class="card-body">
 				<h3 class="text-xl">Technical Workshops</h3>
-				<p>Dive deep into the latest & emerging tools and echnologies.</p>
+				<p>Dive deep into the latest & emerging tools and technologies.</p>
 			</div>
 		</div>
 		<div class="card rounded-none bg-warning">
@@ -44,7 +44,7 @@
 				<h3 class="text-xl">Skill development workshops</h3>
 				<p>
 					Learn essential soft skills, including project management and effective communication in
-					tech environments
+					tech environments.
 				</p>
 			</div>
 		</div>
