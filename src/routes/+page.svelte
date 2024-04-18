@@ -63,8 +63,11 @@
 		<div class="card rounded-none bg-base-300 dark:bg-base-800">
 			<div class="card-body">
 				<h2 class="card-title">Build with AI</h2>
-				<p>Date TBC.</p>
-				<a href="/" class="btn btn-primary">Learn More</a>
+				<p>May 10th, 17:30 - 20:00</p>
+				<a
+					href="https://gdg.community.dev/events/details/google-gdg-portlaoise-presents-build-with-ai/"
+					class="btn btn-primary">Learn More</a
+				>
 			</div>
 		</div>
 	</div>
