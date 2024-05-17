@@ -1,4 +1,4 @@
-import{s as r,n as i}from"../chunks/scheduler.Ce_0Mfso.js";import{S as s,i as l,e as c,c as d,g as h,b as p,f as u,h as m}from"../chunks/index.Ch1nhLbS.js";function y(a){let e,o=`<h1 class="text-3xl">Code of Conduct &amp; Anti-Harrassment Policy</h1> <br/> <p>GDG Portlaoise is dedicated to providing a harassment-free and inclusive event experience for
+import{s as r,n as i}from"../chunks/scheduler.Dw93JyHj.js";import{S as s,i as l,e as c,c as d,g as h,b as p,f as u,h as m}from"../chunks/index.CpCNWAsF.js";function y(a){let e,o=`<h1 class="text-3xl">Code of Conduct &amp; Anti-Harrassment Policy</h1> <br/> <p>GDG Portlaoise is dedicated to providing a harassment-free and inclusive event experience for
 		everyone regardless of gender identity and expression, sexual orientation, disabilities,
 		neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or
 		other protected category. We do not tolerate harassment of event participants in any form. GDG
