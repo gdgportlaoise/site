@@ -6,8 +6,7 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "gh-pages": "next build && echo portlaoise.gdg.ie > ./.next/CNAME && touch ./.next/.nojekyll && npx gh-pages -d .next -t true"
+    "lint": "next lint"
   },
   "dependencies": {
     "@radix-ui/react-slot": "1.1.2",
