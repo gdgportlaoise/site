@@ -226,8 +226,8 @@ export default function Home() {
               <Card>
                 <CardHeader>
                   <Image
-                    src="/placeholder.svg?height=100&width=100"
-                    alt="Mariana Alvez"
+                    src="/mariana.jpg"
+                    alt="Mariana Alves"
                     width={100}
                     height={100}
                     className="rounded-full mx-auto"
@@ -235,7 +235,7 @@ export default function Home() {
                 </CardHeader>
                 <CardContent className="font-GoogleSansDisplayRegular text-center">
                   <CardTitle className="font-GoogleSansDisplayBold text-center mb-2">
-                    Mariana Alvez
+                    Mariana Alves
                   </CardTitle>
                   <p className="text-sm text-gray-500 dark:text-gray-400">
                     Community Lead
