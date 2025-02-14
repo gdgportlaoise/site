@@ -198,6 +198,91 @@ export default function Home() {
             </div>
           </div>
         </section>
+        <section className="w-full py-12 md:py-24 lg:py-32">
+          <div className="container px-4 md:px-6 mx-auto">
+            <h2 className="text-3xl font-GoogleSansDisplayBold tracking-tighter sm:text-4xl md:text-5xl mb-8 text-center">
+              Meet the Team
+            </h2>
+            <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
+              <Card>
+                <CardHeader>
+                  <Image
+                    src="/jordan-harrison.jpeg"
+                    alt="Jordan Harrison"
+                    width={100}
+                    height={100}
+                    className="rounded-full mx-auto"
+                  />
+                </CardHeader>
+                <CardContent className="font-GoogleSansDisplayRegular text-center">
+                  <CardTitle className="font-GoogleSansDisplayBold text-center mb-2">
+                    Jordan Harrison
+                  </CardTitle>
+                  <p className="text-sm text-gray-500 dark:text-gray-400">
+                    Founder & Community Lead
+                  </p>
+                </CardContent>
+              </Card>
+              <Card>
+                <CardHeader>
+                  <Image
+                    src="/placeholder.svg?height=100&width=100"
+                    alt="Mariana Alvez"
+                    width={100}
+                    height={100}
+                    className="rounded-full mx-auto"
+                  />
+                </CardHeader>
+                <CardContent className="font-GoogleSansDisplayRegular text-center">
+                  <CardTitle className="font-GoogleSansDisplayBold text-center mb-2">
+                    Mariana Alvez
+                  </CardTitle>
+                  <p className="text-sm text-gray-500 dark:text-gray-400">
+                    Community Lead
+                  </p>
+                </CardContent>
+              </Card>
+              <Card>
+                <CardHeader>
+                  <Image
+                    src="/placeholder.svg?height=100&width=100"
+                    alt="Padraigh Dermody"
+                    width={100}
+                    height={100}
+                    className="rounded-full mx-auto"
+                  />
+                </CardHeader>
+                <CardContent className="font-GoogleSansDisplayRegular text-center">
+                  <CardTitle className="font-GoogleSansDisplayBold text-center mb-2">
+                    Padraigh Dermody
+                  </CardTitle>
+                  <p className="text-sm text-gray-500 dark:text-gray-400">
+                    Community Lead
+                  </p>
+                </CardContent>
+              </Card>
+              <Card>
+                <CardHeader>
+                  <Image
+                    src="/placeholder.svg?height=100&width=100"
+                    alt="Darragh Drennan"
+                    width={100}
+                    height={100}
+                    className="rounded-full mx-auto"
+                  />
+                </CardHeader>
+                <CardContent className="font-GoogleSansDisplayRegular text-center">
+                  <CardTitle className="font-GoogleSansDisplayBold text-center mb-2">
+                    Darragh Drennan
+                  </CardTitle>
+                  <p className="text-sm text-gray-500 dark:text-gray-400">
+                    Community Lead
+                  </p>
+                </CardContent>
+              </Card>
+            </div>
+          </div>
+        </section>
         <section
           id="join"
           className="w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800">
