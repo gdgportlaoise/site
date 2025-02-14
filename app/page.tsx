@@ -9,6 +9,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Calendar, MapPin, Users } from "lucide-react";
+import Image from 'next/image';
 
 export default function Home() {
   return (
@@ -43,19 +44,19 @@ export default function Home() {
         </nav>
       </header>
       <main className="flex-1">
-        <section className="w-full py-12 md:py-24 lg:py-32 xl:py-48">
-          <div className="container px-4 md:px-6 mx-auto">
-            <div className="flex flex-col items-center space-y-4 text-center">
+        <section className="w-full">
+          <div className="grid grid-cols-1 md:grid-cols-2 mx-auto gap-6">
+            <div className="flex flex-col items-center space-y-4 text-center py-12 md:py-24 lg:py-32 xl:py-48">
               <div className="space-y-2">
                 <h1 className="text-3xl font-GoogleSansDisplayBold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
                   Welcome to GDG Portlaoise
                 </h1>
-                <p className="mx-auto max-w-[700px] font-GoogleSansDisplayRegular text-gray-500 md:text-xl dark:text-gray-400">
+                <p className="mx-auto max-w-[700px] font-GoogleSansDisplayRegular md:text-xl">
                   Your local chapter of the global Google Developer Group
                   network. We&apos;re dedicated to building a community to
                   connect developers & tech enthusiasts across the Midlands,
                   providing a dynamic space to learn, collaborate, and push
-                  boundariess.
+                  boundaries.
                 </p>
               </div>
               <div className="space-x-4 font-GoogleSansDisplayRegular">
@@ -67,6 +68,7 @@ export default function Home() {
                 </Button>
               </div>
             </div>
+            <div className="w-full h-full min-h-56 bg-[url(/gdg-portlaoise-group-photo.jpg)] bg-cover bg-center"></div>
           </div>
         </section>
         <section
@@ -95,7 +97,10 @@ export default function Home() {
                     <MapPin className="w-4 h-4" />
                     <span>FRS Recruitment, The CUBE</span>
                   </div>
-                  <Link href="https://gdg.community.dev/events/details/google-gdg-portlaoise-presents-build-with-ai-2025/" target="_blank" rel="noopener noreferrer">
+                  <Link
+                    href="https://gdg.community.dev/events/details/google-gdg-portlaoise-presents-build-with-ai-2025/"
+                    target="_blank"
+                    rel="noopener noreferrer">
                     <Button className="w-full mt-4" variant="outline">
                       RSVP
                     </Button>
