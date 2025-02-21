@@ -245,7 +245,7 @@ export default function Home() {
               <Card>
                 <CardHeader>
                   <Image
-                    src="/placeholder.svg?height=100&width=100"
+                    src="/padraigh-dermody.png"
                     alt="Padraigh Dermody"
                     width={100}
                     height={100}
@@ -264,7 +264,7 @@ export default function Home() {
               <Card>
                 <CardHeader>
                   <Image
-                    src="/placeholder.svg?height=100&width=100"
+                    src="/darragh-drennan.png"
                     alt="Darragh Drennan"
                     width={100}
                     height={100}
